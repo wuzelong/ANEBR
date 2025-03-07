@@ -1,4 +1,5 @@
 # Adversarial Network Embedding with Bootstrapped Representations for Sparse Networks
+[![DOI](https://img.shields.io/static/v1?label=DOI&message=10.1007/s10489-025-06343-2&color=green&logo=doi)](https://doi.org/10.1007/s10489-025-06343-2)
 
 ## Abstract
 
@@ -34,7 +35,16 @@ Besides, it is also easy to run `./reconstruction.py` directly to perform networ
 If you find the code useful for your research, we kindly request to consider citing our work:
 
 ```
-todo
+@article{wu2025adversarial,
+  title={Adversarial network embedding with bootstrapped representations for sparse networks},
+  author={Wu, Zelong and Wang, Yidan and Lin, Guoliang and Liu, Junlong},
+  journal={Applied Intelligence},
+  volume={55},
+  number={6},
+  pages={498},
+  year={2025},
+  publisher={Springer}
+}
 ```
 
 
